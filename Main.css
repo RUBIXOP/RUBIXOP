@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(images/6213932.jpg) no-repeat;
+    background: url(6213932.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     backdrop-filter: blur(5px);
